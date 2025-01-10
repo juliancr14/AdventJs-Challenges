@@ -5,3 +5,4 @@
   2. Return a list of gifts that can be made
 ### AdventJS 2024
   1. Prepared gifts
+  2. Framming names
